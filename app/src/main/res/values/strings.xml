@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Service_and_receiver</string>
+    <string name="progress">Progress</string>
+    <string name="_5">-50%</string>
+    <string name="_0">0%</string>
+</resources>
